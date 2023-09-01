@@ -35,5 +35,5 @@ Contribuições são bem-vindas! Se você quiser contribuir para o desenvolvimen
 ---
 
 **Vinicius Heleodoro**<br>
-Website: [www.exemplo.com](http://www.exemplo.com)<br>
+Website: www.desafio1landingpage.netlify.app<br>
 Contato: viniciusheleodor@yahoo.com.br
