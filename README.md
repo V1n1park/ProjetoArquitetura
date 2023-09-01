@@ -1,4 +1,4 @@
-# Projeto de Site de Arquitetura
+# Desafio 1 : Projeto Landing Page
 
 Este é um projeto realizado pelo curso DNC de site que apresenta informações sobre uma empresa de arquitetura, seus serviços e realizações.
 
