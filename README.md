@@ -35,6 +35,6 @@ Contribuições são bem-vindas! Se você quiser contribuir para o desenvolvimen
 ---
 
 **Vinicius Heleodoro**<br>
-Website: www.desafio1landingpage.netlify.app<br>
+Website: [www.desafio1landingpage.netlify.app<br>](https://main--desafio1landingpage.netlify.app/)
 Link da planilha: https://docs.google.com/spreadsheets/d/1i5XCvp-iRv2ozP3jPtR2Zej0WVCf-hky-abSzu2GnFU/edit<br>
 Contato: viniciusheleodor@yahoo.com.br
